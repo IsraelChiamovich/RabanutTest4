@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.exe
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.deps.json
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.runtimeconfig.json
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\bin\Debug\net8.0-windows\Rabanut.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.Form1.resources
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.csproj.GenerateResource.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.AssemblyInfo.cs
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\refint\Rabanut.dll
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.pdb
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\Rabanut.genruntimeconfig.cache
+C:\Users\user\Desktop\idf kodcode\c#\week4\Rabanut\Rabanut\obj\Debug\net8.0-windows\ref\Rabanut.dll

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <day>ראשון</day>
+    <dayManth>6</dayManth>
+    <manth>טבת</manth>
+    <year>תשפה</year>
+    <result>באחד בשבת ששה ימים לירח טבת שנת חמשת אלפים ושבע מאות ושמנים וחמש לבריאת העולם</result>
+  </Query>
+  <Query>
+    <day>שלישי</day>
+    <dayManth>30</dayManth>
+    <manth>תשרי</manth>
+    <year>תשפד</year>
+    <result>בשלישי בשבת שלשים יום לירח תשרי חשווןשהוא ראש חודש שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </Query>
+  <Query>
+    <day>שישי</day>
+    <dayManth>30</dayManth>
+    <manth>שבט</manth>
+    <year>תשפה</year>
+    <result>בששי בשבת שלשים יום לירח שבט שהוא ראש חודש אדר הראשון שנת חמשת אלפים ושבע מאות ושמנים וחמש לבריאת העולם</result>
+  </Query>
+  <Query>
+    <day>שלישי</day>
+    <dayManth>30</dayManth>
+    <manth>אדר הראשון</manth>
+    <year>תשצא</year>
+    <result>בשלישי בשבת שלשים יום לירח אדר הראשון שהוא ראש חודש אדר השני שנת חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם</result>
+  </Query>
+</Queries>
